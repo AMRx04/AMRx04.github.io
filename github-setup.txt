@@ -1,0 +1,77 @@
+# My GitHub Pages Website
+
+This is a simple, responsive website hosted on GitHub Pages.
+
+## Features
+
+- Responsive design
+- Clean, modern layout
+- Smooth scrolling navigation
+- Project showcase section
+- Contact information
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (vanilla)
+- Font Awesome Icons
+- GitHub Pages for hosting
+
+## Setup Instructions
+
+1. **Clone this repository**
+   ```
+   git clone https://github.com/yourusername/yourusername.github.io.git
+   ```
+
+2. **Navigate to the repository folder**
+   ```
+   cd yourusername.github.io
+   ```
+
+3. **Make changes as needed**
+   - Edit the HTML, CSS, and JavaScript files to customize the website.
+   - Replace placeholder text with your own content.
+   - Update links and social media handles.
+
+4. **Commit and push your changes**
+   ```
+   git add .
+   git commit -m "Update website content"
+   git push origin main
+   ```
+
+5. **View your website**
+   - Your website will be available at `https://yourusername.github.io`
+
+## Repository Structure
+
+```
+yourusername.github.io/
+├── index.html              # Main HTML file
+├── css/
+│   └── styles.css          # CSS styles
+├── js/
+│   └── main.js             # JavaScript functionality
+├── images/                 # Image assets
+├── .gitignore              # Git ignore file
+└── README.md               # Repository documentation
+```
+
+## Customization
+
+- Edit `index.html` to update the content of your website.
+- Modify `css/styles.css` to change the styling.
+- Update `js/main.js` to add or modify functionality.
+
+## License
+
+[MIT License](LICENSE)
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out to me:
+
+- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: your.email@example.com
